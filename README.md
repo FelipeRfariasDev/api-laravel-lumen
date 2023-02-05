@@ -12,7 +12,7 @@ $php artisan migrate
 
 $php artisan db:seed
 
-httpd-vhosts.conf
+https://github.com/FelipeRfariasDev/api-laravel-lumen/blob/main/database/httpd-vhosts.conf
 
 C:\xampp\apache\conf\extra\httpd-vhosts.conf
 
